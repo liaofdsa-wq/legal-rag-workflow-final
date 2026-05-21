@@ -1,0 +1,53 @@
+{
+  "model_name": "BAAI/bge-m3",
+  "hours": 0.05,
+  "cache_summary": {
+    "cache_reused": true,
+    "text_count": 2948,
+    "embedding_shape": [
+      2948,
+      1024
+    ]
+  },
+  "collect_summary": {
+    "pair_row_count": 1854,
+    "chain_row_count": 475,
+    "seed_list": [
+      419
+    ],
+    "scheduled_run_count": 14,
+    "source_kind_counts": {
+      "tree_parent_child": 1326,
+      "table_inner": 100,
+      "table_inner_row": 428
+    },
+    "separator_counts": {
+      "blankline": 221,
+      "arrow": 221,
+      "child": 221,
+      "colon": 321,
+      "semicolon": 649,
+      "comma": 221
+    },
+    "length_pattern_counts": {
+      "S+L": 130,
+      "S+S": 423,
+      "S+M": 368,
+      "M+M": 231,
+      "M+S": 452,
+      "L+S": 57,
+      "L+L": 23,
+      "M+L": 91,
+      "L+M": 79
+    }
+  },
+  "scheduled_run_count": 14,
+  "completed_run_count": 14,
+  "elapsed_sec": 4.077,
+  "outputs": {
+    "all_runs_summary": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\universal_compose_generalization\\all_runs_summary.csv",
+    "best_runs": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\universal_compose_generalization\\best_runs.json",
+    "failure_cases": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\universal_compose_generalization\\failure_cases.csv",
+    "report": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\universal_compose_generalization\\generalization_report.md"
+  }
+}

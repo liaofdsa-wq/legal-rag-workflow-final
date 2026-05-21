@@ -1,0 +1,34 @@
+{
+  "pair_row_count": 46587,
+  "chain_row_count": 14858,
+  "seed_list": [
+    419,
+    420,
+    421
+  ],
+  "scheduled_run_count": 1617,
+  "source_kind_counts": {
+    "tree_parent_child": 36456,
+    "table_inner": 6814,
+    "table_inner_row": 3317
+  },
+  "separator_counts": {
+    "blankline": 6076,
+    "arrow": 6076,
+    "child": 6076,
+    "colon": 12890,
+    "semicolon": 9393,
+    "comma": 6076
+  },
+  "length_pattern_counts": {
+    "S+L": 3128,
+    "S+S": 11028,
+    "S+M": 11401,
+    "M+M": 5321,
+    "M+S": 5080,
+    "L+S": 2619,
+    "L+L": 1965,
+    "M+L": 1162,
+    "L+M": 4883
+  }
+}

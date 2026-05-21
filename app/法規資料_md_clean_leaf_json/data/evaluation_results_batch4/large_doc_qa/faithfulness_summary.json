@@ -1,0 +1,9 @@
+﻿{
+  "metric": "faithfulness",
+  "average_score": 0.6566666666666666,
+  "total_questions": 10,
+  "successful_questions": 10,
+  "failed_questions": 0,
+  "no_claim_questions": 0,
+  "question_type_filter": null
+}

@@ -1,0 +1,7 @@
+﻿separator,case_count,cos_mean_lr_vs_target,cos_mean_lsr_vs_target,cos_direct_matrix_vs_target,cos_element_first_step_vs_left_sep,cos_element_matrix_vs_target,element_minus_direct,element_minus_mean,win_rate_vs_direct,win_rate_vs_mean
+arrow,1,0.938476,0.860805,0.863339,0.894217,0.858687,-0.004652,-0.079789,0.0,0.0
+blankline,1,0.939171,0.839186,0.92594,0.902501,0.916427,-0.009513,-0.022744,0.0,0.0
+child,1,0.914404,0.875176,0.841365,0.91796,0.847355,0.00599,-0.067049,1.0,0.0
+colon,1,0.92972,0.821943,0.844576,0.904533,0.820509,-0.024067,-0.109211,0.0,0.0
+comma,1,0.910695,0.829757,0.804165,0.787929,0.793052,-0.011113,-0.117643,0.0,0.0
+semicolon,1,0.898721,0.811017,0.720963,0.789003,0.700734,-0.020229,-0.197987,0.0,0.0

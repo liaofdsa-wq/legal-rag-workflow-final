@@ -1,0 +1,8 @@
+﻿{
+  "metric": "context_recall",
+  "average_score": 0.38,
+  "total_questions": 10,
+  "successful_questions": 10,
+  "failed_questions": 0,
+  "question_type_filter": null
+}

@@ -1,0 +1,15 @@
+﻿run_id,experiment_kind,seed,max_pairs,holdout_separator,holdout_file,holdout_length_pattern,case_count,element_minus_direct_mean,element_minus_mean_mean,cos_element_matrix_vs_target_mean,cos_direct_matrix_vs_target_mean,win_rate_vs_direct,win_rate_vs_mean,elapsed_sec
+holdout_length_L_S_seed419,length_bucket_holdout,419,100,,,L+S,3,-0.001606,-0.057083,0.864077,0.865683,0.333333,0.0,0.542
+holdout_length_S_L_seed419,length_bucket_holdout,419,100,,,S+L,6,-0.010597,-0.09907,0.822794,0.833391,0.166667,0.0,0.47
+holdout_separator_arrow_seed419,leave_one_separator_out,419,100,arrow,,,10,-0.011901,-0.095713,0.830513,0.842414,0.0,0.0,0.855
+holdout_separator_blankline_seed419,leave_one_separator_out,419,100,blankline,,,11,-0.006421,-0.045353,0.895849,0.90227,0.090909,0.090909,0.582
+holdout_separator_child_seed419,leave_one_separator_out,419,100,child,,,13,-0.006562,-0.08755,0.838145,0.844707,0.230769,0.0,0.657
+holdout_separator_colon_seed419,leave_one_separator_out,419,100,colon,,,21,-0.006085,-0.038527,0.878478,0.884564,0.142857,0.380952,0.409
+holdout_separator_comma_seed419,leave_one_separator_out,419,100,comma,,,11,-0.012574,-0.028711,0.906117,0.918691,0.0,0.363636,0.668
+holdout_separator_semicolon_seed419,leave_one_separator_out,419,100,semicolon,,,34,-0.006293,-0.138201,0.798332,0.804624,0.176471,0.117647,0.432
+mixed_all_seen_seed419,mixed_all_seen,419,100,,,,25,-0.009967,-0.061051,0.876247,0.886214,0.04,0.2,0.577
+holdout_length_L_L_seed419,length_bucket_holdout,419,100,,,L+L,23,-0.013183,-0.101988,0.86515,0.878333,0.0,0.0,0.2
+holdout_file_7d6f0221b2e79157_seed419,leave_one_file_out,419,100,,1.FCM內控-總則---114.04,,58,-0.011248,-0.252589,0.681913,0.693161,0.12069,0.0,0.214
+holdout_file_96899edaff803f3c_seed419,leave_one_file_out,419,100,,1110921新興科技資通安全自律規範及修正對照表,,35,0.002273,-0.246628,0.674609,0.672336,0.571429,0.0,0.217
+holdout_file_85a86a1e81769d0c_seed419,leave_one_file_out,419,100,,2.FCM內控CA---壹、業務及收入循環 ---114.04,,7,0.00917,-0.25084,0.690225,0.681055,0.714286,0.0,0.257
+chain_step_holdout_seed419,chain_step_holdout,419,100,,,,52,,0.059832,0.963786,,,0.942308,2.235

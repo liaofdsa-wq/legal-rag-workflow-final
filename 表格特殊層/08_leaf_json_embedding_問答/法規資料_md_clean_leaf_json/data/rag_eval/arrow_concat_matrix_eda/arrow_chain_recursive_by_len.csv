@@ -1,0 +1,7 @@
+﻿step_len,case_count,cos_mean_step_vs_arrow_step,cos_pair_recursive_compose_vs_arrow_step,cos_step_recursive_compose_vs_arrow_step,compose_win_probability,mean_win_probability,tie_probability,pair_compose_win_probability
+2,116,0.915738,0.893116,0.963717,0.801724,0.198276,0.0,0.534483
+3,90,0.87033,0.848562,0.969106,0.955556,0.044444,0.0,0.544444
+4,70,0.857416,0.802739,0.960409,0.957143,0.042857,0.0,0.242857
+5,49,0.861484,0.770898,0.959383,0.979592,0.020408,0.0,0.102041
+6,21,0.872439,0.730615,0.961558,1.0,0.0,0.0,0.0
+7,8,0.859535,0.713082,0.952724,1.0,0.0,0.0,0.0

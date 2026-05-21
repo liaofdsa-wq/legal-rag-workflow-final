@@ -1,0 +1,4 @@
+﻿length_pattern,case_count,cos_mean_lr_vs_target,cos_mean_lsr_vs_target,cos_direct_matrix_vs_target,cos_element_first_step_vs_left_sep,cos_element_matrix_vs_target,element_minus_direct,element_minus_mean,win_rate_vs_direct,win_rate_vs_mean
+M+M,4,0.952125,0.871734,0.924628,0.919366,0.916632,-0.007997,-0.035494,0.25,0.0
+S+M,1,0.922216,0.830722,0.847083,0.894111,0.82716,-0.019923,-0.095056,0.0,0.0
+S+S,6,0.89998,0.83268,0.858827,0.941118,0.849707,-0.00912,-0.050273,0.0,0.166667

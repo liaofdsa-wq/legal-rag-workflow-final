@@ -1,0 +1,4882 @@
+[
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 1,
+    "cell_text": "[@1] 檢測項目"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 2,
+    "cell_text": "[@2] 編號"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 3,
+    "cell_text": "[@3] 資訊安全技術 要求事項"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 4,
+    "cell_text": "[@4] 技術要求"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 5,
+    "cell_text": "L1"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 6,
+    "cell_text": "L2"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 7,
+    "cell_text": "L3"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 8,
+    "cell_text": "F"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 1,
+    "cell_text": "4.1.1 行動應 用程式發布 安全"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 2,
+    "cell_text": "1"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 3,
+    "cell_text": "4.1.1.1. 行動應 用程式發布"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 4,
+    "cell_text": "4.1.1.1.2.行動應用 程式應於發布時說 明欲存取之安全敏 感性資料、行動裝置 資源及宣告之權限 用途。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 5,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 1,
+    "cell_text": "4.1.1 行動應 用程式發布 安全"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 2,
+    "cell_text": "2"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 3,
+    "cell_text": "4.1.1.1. 行動應 用程式發布"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 4,
+    "cell_text": "4.1.1.1.3行動應用程 式應於顯著位置(如 官網、應用程式下載 頁面等)提示使用者 於行動應用裝置上 安裝防護軟體。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 5,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 6,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 7,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 8,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 1,
+    "cell_text": "4.1.1 行動應 用程式發布 安全"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 2,
+    "cell_text": "3"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 3,
+    "cell_text": "4.1.1.3. 行動應 用程式安全性 問題回報"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 4,
+    "cell_text": "4.1.1.3.1.行動應用 程式開發者應提供 回報安全性問題之"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 5,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_1",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 1,
+    "cell_text": "[@1] 檢測項目"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 2,
+    "cell_text": "[@2] 編號"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 3,
+    "cell_text": "[@3] 資訊安全技術 要求事項"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 4,
+    "cell_text": "[@4] 技術要求"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 5,
+    "cell_text": "L1"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 6,
+    "cell_text": "L2"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 7,
+    "cell_text": "L3"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 8,
+    "cell_text": "F"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 1,
+    "cell_text": "4.1.5.行動應 用程式碼安 全"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 2,
+    "cell_text": "38"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 3,
+    "cell_text": "4.1.5.4. 使用者 輸入驗證"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 4,
+    "cell_text": "4.1.5.4.2.行動應用 程式應提供相關注 入攻擊防護機制。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 5,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 1,
+    "cell_text": "4.1.5.行動應 用程式碼安 全"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 2,
+    "cell_text": "39"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 3,
+    "cell_text": "4.1.5.5.防止動 態分析及竄改"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 4,
+    "cell_text": "4.1.5.5.1.行動應用 程式須偵測行動作 業系統保護層是否 有被破解(如：Root、 Jailbreak)或保護不 當之情形，如有，應 主動通知使用者或 關閉應用程式。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 5,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 6,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 7,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 8,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 1,
+    "cell_text": "4.1.5.行動應 用程式碼安 全"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 2,
+    "cell_text": "40"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 3,
+    "cell_text": "4.1.5.5.防止動 態分析及竄改"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 4,
+    "cell_text": "4.1.5.5.5.屬於該行 動應用程式的可執 行檔案以及函式庫 都應在檔案層級中 加密或者在可執行 檔案中重要的程式 碼區段以及資料區 段都應加密或加殼， 使得一般的靜態分"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 5,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 6,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 7,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_10",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 8,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 1,
+    "cell_text": "[@1] 檢測項目"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 2,
+    "cell_text": "[@2] 編號"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 3,
+    "cell_text": "[@3] 資訊安全技術 要求事項"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 4,
+    "cell_text": "[@4] 技術要求"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 5,
+    "cell_text": "L1"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 6,
+    "cell_text": "L2"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 7,
+    "cell_text": "L3"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 8,
+    "cell_text": "F"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 1,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 2,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 3,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 4,
+    "cell_text": "析不易取出重要的 程式碼或資料。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 5,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 6,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 7,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 8,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 1,
+    "cell_text": "4.1.5.行動應 用程式碼安 全"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 2,
+    "cell_text": "41"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 3,
+    "cell_text": "4.1.5.5.防止動 態分析及竄改"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 4,
+    "cell_text": "4.1.5.5.6.行動應用 程式應有程式碼混 淆機制。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 5,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 6,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 7,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 8,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 1,
+    "cell_text": "4.2.2 伺服器 端安全檢測"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 2,
+    "cell_text": "42"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 3,
+    "cell_text": "4.2.2.1.Webview 安全檢測"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 4,
+    "cell_text": "4.2.2.1.2.行動應用 程式於 Webview 呈 現功能時，所連線之 網域應為安全網域。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 5,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_11",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 1,
+    "cell_text": "[@1] 檢測項目"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 2,
+    "cell_text": "[@2] 編號"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 3,
+    "cell_text": "[@3] 資訊安全技術 要求事項"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 4,
+    "cell_text": "[@4] 技術要求"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 5,
+    "cell_text": "L1"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 6,
+    "cell_text": "L2"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 7,
+    "cell_text": "L3"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 8,
+    "cell_text": "F"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 1,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 2,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 3,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 4,
+    "cell_text": "管道"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 5,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 6,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 7,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 8,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 1,
+    "cell_text": "4.1.2. 敏 感 性資料保護"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 2,
+    "cell_text": "4"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 3,
+    "cell_text": "4.1.2.1. 敏感性 資料蒐集"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 4,
+    "cell_text": "4.1.2.1.1.行動應用 程式應於蒐集敏感 性資料前，取得使用 者同意。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 5,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 1,
+    "cell_text": "4.1.2. 敏 感 性資料保護"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 2,
+    "cell_text": "5"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 3,
+    "cell_text": "4.1.2.1. 敏感性 資料蒐集"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 4,
+    "cell_text": "4.1.2.1.2.行動應用 程式應提供使用者 拒絕蒐集敏感性資 料之權利。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 5,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 1,
+    "cell_text": "4.1.2. 敏 感 性資料保護"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 2,
+    "cell_text": "6"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 3,
+    "cell_text": "4.1.2.2 敏感性 資料利用"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 4,
+    "cell_text": "4.1.2.2.3.行動應用 程式如採用通行碼 認證，應主動提醒使 用者設定較複雜之 通行碼。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 5,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 6,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 7,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 8,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 1,
+    "cell_text": "4.1.2. 敏 感 性資料保護"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 2,
+    "cell_text": "7"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 3,
+    "cell_text": "4.1.2.2 敏感性 資料利用"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 4,
+    "cell_text": "4.1.2.2.4.行動應用 程式應提醒使用者 定期變更通行碼。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 5,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 6,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 7,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 8,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 7,
+    "col_index": 1,
+    "cell_text": "4.1.2. 敏 感 性資料保護"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 7,
+    "col_index": 2,
+    "cell_text": "8"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 7,
+    "col_index": 3,
+    "cell_text": "4.1.2.3. 敏感性 資料儲存"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 7,
+    "col_index": 4,
+    "cell_text": "4.1.2.3.1.行動應用 程式應於儲存敏感 性資料前，取得使用"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 7,
+    "col_index": 5,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 7,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 7,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_2",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 7,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 1,
+    "cell_text": "[@1] 檢測項目"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 2,
+    "cell_text": "[@2] 編號"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 3,
+    "cell_text": "[@3] 資訊安全技術 要求事項"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 4,
+    "cell_text": "[@4] 技術要求"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 5,
+    "cell_text": "L1"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 6,
+    "cell_text": "L2"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 7,
+    "cell_text": "L3"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 8,
+    "cell_text": "F"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 1,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 2,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 3,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 4,
+    "cell_text": "者同意。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 5,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 6,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 7,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 8,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 1,
+    "cell_text": "4.1.2. 敏 感 性資料保護"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 2,
+    "cell_text": "9"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 3,
+    "cell_text": "4.1.2.3. 敏感性 資料儲存"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 4,
+    "cell_text": "4.1.2.3.2.行動應用 程式應提供使用者 拒絕儲存敏感性資 料之權利。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 5,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 1,
+    "cell_text": "4.1.2. 敏 感 性資料保護"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 2,
+    "cell_text": "10"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 3,
+    "cell_text": "4.1.2.3. 敏感性 資料儲存"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 4,
+    "cell_text": "4.1.2.3.4.行動應用 程式應避免在關閉 及登出後將敏感性 資料儲存於冗餘檔 案或日誌檔案中。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 5,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 7,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 1,
+    "cell_text": "4.1.2. 敏 感 性資料保護"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 2,
+    "cell_text": "11"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 3,
+    "cell_text": "4.1.2.3. 敏感性 資料儲存"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 4,
+    "cell_text": "4.1.2.3.5.行動應用 程式應避免將敏感 性資料儲存於冗餘 檔案或日誌檔案中。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 5,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 6,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 1,
+    "cell_text": "4.1.2. 敏 感 性資料保護"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 2,
+    "cell_text": "12"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 3,
+    "cell_text": "4.1.2.3. 敏感性 資料儲存"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 4,
+    "cell_text": "4.1.2.3.6.敏感性資 料應採用適當且有 效之金鑰長度與加 密演算法，進行加密 處理再儲存。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 5,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 7,
+    "col_index": 1,
+    "cell_text": "4.1.2. 敏 感"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 7,
+    "col_index": 2,
+    "cell_text": "13"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 7,
+    "col_index": 3,
+    "cell_text": "4.1.2.3. 敏感性"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 7,
+    "col_index": 4,
+    "cell_text": "4.1.2.3.7.敏感性資"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 7,
+    "col_index": 5,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 7,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 7,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_3",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 7,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 1,
+    "cell_text": "[@1] 檢測項目"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 2,
+    "cell_text": "[@2] 編號"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 3,
+    "cell_text": "[@3] 資訊安全技術 要求事項"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 4,
+    "cell_text": "[@4] 技術要求"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 5,
+    "cell_text": "L1"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 6,
+    "cell_text": "L2"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 7,
+    "cell_text": "L3"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 8,
+    "cell_text": "F"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 1,
+    "cell_text": "性資料保護"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 2,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 3,
+    "cell_text": "資料儲存"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 4,
+    "cell_text": "料應儲存於受作業 系統保護之區域，以 防止其他應用程式 未經授權之存取。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 5,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 6,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 7,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 8,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 1,
+    "cell_text": "4.1.2. 敏 感 性資料保護"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 2,
+    "cell_text": "14"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 3,
+    "cell_text": "4.1.2.3. 敏感性 資料儲存"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 4,
+    "cell_text": "4.1.2.3.8.敏感性資 料應避免出現於行 動應用程式之程式 碼。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 5,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 1,
+    "cell_text": "4.1.2. 敏 感 性資料保護"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 2,
+    "cell_text": "15"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 3,
+    "cell_text": "4.1.2.3. 敏感性 資料儲存"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 4,
+    "cell_text": "4.1.2.3.9.行動應用 程式於非使用者主 動進行的畫面擷取 時應主動警示使用 者。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 5,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 6,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 1,
+    "cell_text": "4.1.2. 敏 感 性資料保護"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 2,
+    "cell_text": "16"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 3,
+    "cell_text": "4.1.2.3. 敏感性 資料儲存"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 4,
+    "cell_text": "4.1.2.3.10.行動應用 程式應將個人可識 別資訊、使用者憑證 及加密金鑰等敏感 性資料儲存於系統 憑證儲存設施。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 5,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 1,
+    "cell_text": "4.1.2. 敏 感"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 2,
+    "cell_text": "17"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 3,
+    "cell_text": "4.1.2.3. 敏感性"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 4,
+    "cell_text": "4.1.2.3.11.行動應用"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 5,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_4",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 1,
+    "cell_text": "[@1] 檢測項目"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 2,
+    "cell_text": "[@2] 編號"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 3,
+    "cell_text": "[@3] 資訊安全技術 要求事項"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 4,
+    "cell_text": "[@4] 技術要求"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 5,
+    "cell_text": "L1"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 6,
+    "cell_text": "L2"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 7,
+    "cell_text": "L3"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 8,
+    "cell_text": "F"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 1,
+    "cell_text": "性資料保護"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 2,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 3,
+    "cell_text": "資料儲存"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 4,
+    "cell_text": "程式應於使用者輸 入敏感性資料時將 鍵盤的快取機制關 閉。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 5,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 6,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 7,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 8,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 1,
+    "cell_text": "4.1.2. 敏 感 性資料保護"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 2,
+    "cell_text": "18"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 3,
+    "cell_text": "4.1.2.3. 敏感性 資料儲存"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 4,
+    "cell_text": "4.1.2.3.12.行動應用 程式應避免在 IPC 機制中洩漏敏感性 資料。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 5,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 1,
+    "cell_text": "4.1.2. 敏 感 性資料保護"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 2,
+    "cell_text": "19"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 3,
+    "cell_text": "4.1.2.3. 敏感性 資料儲存"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 4,
+    "cell_text": "4.1.2.3.13.行動應用 程式中的使用者介 面應避免洩漏敏感 性資料。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 5,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 1,
+    "cell_text": "4.1.2. 敏 感 性資料保護"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 2,
+    "cell_text": "20"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 3,
+    "cell_text": "4.1.2.3. 敏感性 資料儲存"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 4,
+    "cell_text": "4.1.2.3.14.行動作業 系統的備份資料中 不應存有行動應用 程式的敏感性資料。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 5,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 6,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 1,
+    "cell_text": "4.1.2. 敏 感 性資料保護"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 2,
+    "cell_text": "21"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 3,
+    "cell_text": "4.1.2.4.敏感性 資料傳輸"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 4,
+    "cell_text": "4.1.2.4.1.行動應用 程式透過網路傳輸 敏感性資料，應使用 適當且有效之金鑰"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 5,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_5",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 1,
+    "cell_text": "[@1] 檢測項目"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 2,
+    "cell_text": "[@2] 編號"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 3,
+    "cell_text": "[@3] 資訊安全技術 要求事項"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 4,
+    "cell_text": "[@4] 技術要求"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 5,
+    "cell_text": "L1"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 6,
+    "cell_text": "L2"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 7,
+    "cell_text": "L3"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 8,
+    "cell_text": "F"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 1,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 2,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 3,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 4,
+    "cell_text": "長度與加密演算法 進行安全加密。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 5,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 6,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 7,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 8,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 1,
+    "cell_text": "4.1.2. 敏 感 性資料保護"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 2,
+    "cell_text": "22"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 3,
+    "cell_text": "4.1.2.5. 敏感性 資料分享"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 4,
+    "cell_text": "4.1.2.5.1.行動裝置 內之不同行動應用 程式間，應於分享敏 感性資料前，取得使 用者同意。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 5,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 1,
+    "cell_text": "4.1.2. 敏 感 性資料保護"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 2,
+    "cell_text": "23"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 3,
+    "cell_text": "4.1.2.5. 敏感性 資料分享"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 4,
+    "cell_text": "4.1.2.5.2.行動應用 程式應提供使用者 拒絕分享敏感性資 料之權利"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 5,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 1,
+    "cell_text": "4.1.2. 敏 感 性資料保護"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 2,
+    "cell_text": "24"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 3,
+    "cell_text": "4.1.2.5. 敏感性 資料分享"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 4,
+    "cell_text": "4.1.2.5.3. 行動應用 程式分享敏感性資 料時，應避免未授權 之行動應用程式存 取。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 5,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 1,
+    "cell_text": "4.1.3.交易資 源控管安全"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 2,
+    "cell_text": "25"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 3,
+    "cell_text": "4.1.3.1. 交易資 源使用"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 4,
+    "cell_text": "4.1.3.1.1.行動應用 程式應於使用交易 資源時主動通知使 用者。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 5,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 6,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_6",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 1,
+    "cell_text": "[@1] 檢測項目"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 2,
+    "cell_text": "[@2] 編號"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 3,
+    "cell_text": "[@3] 資訊安全技術 要求事項"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 4,
+    "cell_text": "[@4] 技術要求"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 5,
+    "cell_text": "L1"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 6,
+    "cell_text": "L2"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 7,
+    "cell_text": "L3"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 8,
+    "cell_text": "F"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 1,
+    "cell_text": "4.1.3.交易資 源控管安全"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 2,
+    "cell_text": "26"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 3,
+    "cell_text": "4.1.3.1. 交易資 源使用"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 4,
+    "cell_text": "4.1.3.1.2.行動應用 程式應提供使用者 拒絕使用交易資源 之權利。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 5,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 6,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 1,
+    "cell_text": "4.1.3.交易資 源控管安全"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 2,
+    "cell_text": "27"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 3,
+    "cell_text": "4.1.3.2. 交易資 源控管"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 4,
+    "cell_text": "4.1.3.2.1.行動應用 程式應於使用交易 資源時進行使用者 身分鑑別。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 5,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 6,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 1,
+    "cell_text": "4.1.3.交易資 源控管安全"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 2,
+    "cell_text": "28"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 3,
+    "cell_text": "4.1.3.2. 交易資 源控管"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 4,
+    "cell_text": "4.1.3.2.2.行動應用 程式應記錄使用之 交易資源與時間。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 5,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 6,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 1,
+    "cell_text": "4.1.4.行動應 用程式使用 者 身 分 鑑 別、授權與 連線管理安 全"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 2,
+    "cell_text": "29"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 3,
+    "cell_text": "4.1.4.1. 使用者 身分鑑別與授 權"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 4,
+    "cell_text": "4.1.4.1.1.行動應用 程式應有適當之身 分鑑別機制，確認使 用者身分。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 5,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 1,
+    "cell_text": "4.1.4.行動應 用程式使用 者 身 分 鑑"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 2,
+    "cell_text": "30"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 3,
+    "cell_text": "4.1.4.1. 使用者 身分鑑別與授 權"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 4,
+    "cell_text": "4.1.4.1.2.行動應用 程式應依使用者身 分授權。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 5,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_7",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 1,
+    "cell_text": "[@1] 檢測項目"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 2,
+    "cell_text": "[@2] 編號"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 3,
+    "cell_text": "[@3] 資訊安全技術 要求事項"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 4,
+    "cell_text": "[@4] 技術要求"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 5,
+    "cell_text": "L1"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 6,
+    "cell_text": "L2"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 7,
+    "cell_text": "L3"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 8,
+    "cell_text": "F"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 1,
+    "cell_text": "別、授權與 連線管理安 全"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 2,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 3,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 4,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 5,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 6,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 7,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 8,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 1,
+    "cell_text": "4.1.4.行動應 用程式使用 者 身 分 鑑 別、授權與 連線管理安 全"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 2,
+    "cell_text": "31"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 3,
+    "cell_text": "4.1.4.2. 連線管 理機制"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 4,
+    "cell_text": "4.1.4.2.1.行動應用 程式應避免使用具 有規則性之交談識 別碼。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 5,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 1,
+    "cell_text": "4.1.4.行動應 用程式使用 者 身 分 鑑 別、授權與 連線管理安 全"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 2,
+    "cell_text": "32"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 3,
+    "cell_text": "4.1.4.2. 連線管 理機制"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 4,
+    "cell_text": "4.1.4.2.2.行動應用 程式應確認伺服器 憑證之有效性。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 5,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 1,
+    "cell_text": "4.1.4.行動應 用程式使用 者 身 分 鑑 別、授權與 連線管理安"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 2,
+    "cell_text": "33"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 3,
+    "cell_text": "4.1.4.2. 連線管 理機制"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 4,
+    "cell_text": "4.1.4.2.3.行動應用 程式應確認伺服器 憑證為可信任之憑 證機構所簽發。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 5,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_8",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 1,
+    "cell_text": "[@1] 檢測項目"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 2,
+    "cell_text": "[@2] 編號"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 3,
+    "cell_text": "[@3] 資訊安全技術 要求事項"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 4,
+    "cell_text": "[@4] 技術要求"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 5,
+    "cell_text": "L1"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 6,
+    "cell_text": "L2"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 7,
+    "cell_text": "L3"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 1,
+    "col_index": 8,
+    "cell_text": "F"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 1,
+    "cell_text": "全"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 2,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 3,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 4,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 5,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 6,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 7,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 2,
+    "col_index": 8,
+    "cell_text": ""
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 1,
+    "cell_text": "4.1.5.行動應 用程式碼安 全"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 2,
+    "cell_text": "34"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 3,
+    "cell_text": "4.1.5.1. 防範惡 意程式碼與避 免資訊安全漏 洞"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 4,
+    "cell_text": "4.1.5.1.1.行動應用 程式應避免含有惡 意程式碼。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 5,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 3,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 1,
+    "cell_text": "4.1.5.行動應 用程式碼安 全"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 2,
+    "cell_text": "35"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 3,
+    "cell_text": "4.1.5.1. 防範惡 意程式碼與避 免資訊安全漏 洞"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 4,
+    "cell_text": "4.1.5.1.2.行動應用 程式應避免資訊安 全漏洞。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 5,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 4,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 1,
+    "cell_text": "4.1.5.行動應 用程式碼安 全"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 2,
+    "cell_text": "36"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 3,
+    "cell_text": "4.1.5.3. 函式庫 引用安全"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 4,
+    "cell_text": "4.1.5.3.1.行動應用 程式於引用之函式 庫有更新時，應備妥 對應之更新版本，更 新 方 式 請 參 酌 4.1.1.行動應用程式 發布安全。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 5,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 5,
+    "col_index": 8,
+    "cell_text": "─"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 1,
+    "cell_text": "4.1.5.行動應 用程式碼安 全"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 2,
+    "cell_text": "37"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 3,
+    "cell_text": "4.1.5.4. 使用者 輸入驗證"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 4,
+    "cell_text": "4.1.5.4.1.行動應用 程式應針對使用者 於輸入階段之字串， 進行安全檢查。"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 5,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 6,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 7,
+    "cell_text": "★"
+  },
+  {
+    "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.md",
+    "table_id": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄_table_9",
+    "under_path_key": "",
+    "under_path_names": [],
+    "pages": [],
+    "row_index": 6,
+    "col_index": 8,
+    "cell_text": "─"
+  }
+]

@@ -1,0 +1,365 @@
+{
+  "source_dir": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\法規資料",
+  "special_seed_dir": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\有表格PDF",
+  "general_input_dir": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料",
+  "special_input_dir": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料",
+  "source_file_count": 59,
+  "general_file_count": 25,
+  "special_file_count": 34,
+  "files": [
+    {
+      "file_name": "1.FCM內控-總則---114.04.pdf",
+      "normalized_base_name": "1.FCM內控-總則---114.04",
+      "layer": "一般層級",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料\\1.FCM內控-總則---114.04.pdf"
+    },
+    {
+      "file_name": "1110921新興科技資通安全自律規範及修正對照表 p1-5 本文.pdf",
+      "normalized_base_name": "1110921新興科技資通安全自律規範及修正對照表",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\1110921新興科技資通安全自律規範及修正對照表 p1-5 本文.pdf"
+    },
+    {
+      "file_name": "1110921新興科技資通安全自律規範及修正對照表 p17-21修正對照表.pdf",
+      "normalized_base_name": "1110921新興科技資通安全自律規範及修正對照表",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\1110921新興科技資通安全自律規範及修正對照表 p17-21修正對照表.pdf"
+    },
+    {
+      "file_name": "1110921新興科技資通安全自律規範及修正對照表 p22函.pdf",
+      "normalized_base_name": "1110921新興科技資通安全自律規範及修正對照表",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\1110921新興科技資通安全自律規範及修正對照表 p22函.pdf"
+    },
+    {
+      "file_name": "1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.pdf",
+      "normalized_base_name": "1110921新興科技資通安全自律規範及修正對照表",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\1110921新興科技資通安全自律規範及修正對照表 p6-16附錄.pdf"
+    },
+    {
+      "file_name": "2.FCM內控CA---壹、業務及收入循環 ---114.04.pdf",
+      "normalized_base_name": "2.FCM內控CA---壹、業務及收入循環 ---114.04",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\2.FCM內控CA---壹、業務及收入循環 ---114.04.pdf"
+    },
+    {
+      "file_name": "3.FCM內控CP ---貳、採購及付款循環 ---114.04.pdf",
+      "normalized_base_name": "3.FCM內控CP ---貳、採購及付款循環 ---114.04",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\3.FCM內控CP ---貳、採購及付款循環 ---114.04.pdf"
+    },
+    {
+      "file_name": "4.FCM內控CW---參 、薪工循環---114.04.pdf",
+      "normalized_base_name": "4.FCM內控CW---參 、薪工循環---114.04",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\4.FCM內控CW---參 、薪工循環---114.04.pdf"
+    },
+    {
+      "file_name": "5.FCM內控CR---肆、融資循環---114.04.pdf",
+      "normalized_base_name": "5.FCM內控CR---肆、融資循環---114.04",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\5.FCM內控CR---肆、融資循環---114.04.pdf"
+    },
+    {
+      "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.pdf",
+      "normalized_base_name": "6.FCM內控CF---伍、不動產及設備循環---114.04",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\6.FCM內控CF---伍、不動產及設備循環---114.04.pdf"
+    },
+    {
+      "file_name": "7.FCM內控CI---陸、投資循環---114.04.pdf",
+      "normalized_base_name": "7.FCM內控CI---陸、投資循環---114.04",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\7.FCM內控CI---陸、投資循環---114.04.pdf"
+    },
+    {
+      "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.pdf",
+      "normalized_base_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\8.FCM內控CC---柒、電腦作業與資訊提供---114.04.pdf"
+    },
+    {
+      "file_name": "9.FCM內控CM---捌、管理控制制度---114.04.pdf",
+      "normalized_base_name": "9.FCM內控CM---捌、管理控制制度---114.04",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\9.FCM內控CM---捌、管理控制制度---114.04.pdf"
+    },
+    {
+      "file_name": "p1-23(第二十二條之一tree要改)本文金融機構辦理電子銀行業務安全控管作業基準含附錄1150107.pdf",
+      "normalized_base_name": "金融機構辦理電子銀行業務安全控管作業基準含附錄1150107",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\p1-23(第二十二條之一tree要改)本文金融機構辦理電子銀行業務安全控管作業基準含附錄1150107.pdf"
+    },
+    {
+      "file_name": "p1-5本文(第2條tree要改) 保險業經營行動服務自律規範(原為「保險業經營行動投保業務自律規範」)全條文(1130805).pdf",
+      "normalized_base_name": "保險業經營行動服務自律規範(原為「保險業經營行動投保業務自律規範」)全條文(1130805)",
+      "layer": "一般層級",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料\\p1-5本文(第2條tree要改) 保險業經營行動服務自律規範(原為「保險業經營行動投保業務自律規範」)全條文(1130805).pdf"
+    },
+    {
+      "file_name": "p1-8本文保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).pdf",
+      "normalized_base_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 )",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\p1-8本文保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).pdf"
+    },
+    {
+      "file_name": "p10-26所有附件保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).pdf",
+      "normalized_base_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 )",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\p10-26所有附件保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).pdf"
+    },
+    {
+      "file_name": "p116-126附錄四五金融機構辦理電子銀行業務安全控管作業基準含附錄1150107.pdf",
+      "normalized_base_name": "金融機構辦理電子銀行業務安全控管作業基準含附錄1150107",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\p116-126附錄四五金融機構辦理電子銀行業務安全控管作業基準含附錄1150107.pdf"
+    },
+    {
+      "file_name": "p127-137附錄六金融機構辦理電子銀行業務安全控管作業基準含附錄1150107.pdf",
+      "normalized_base_name": "金融機構辦理電子銀行業務安全控管作業基準含附錄1150107",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\p127-137附錄六金融機構辦理電子銀行業務安全控管作業基準含附錄1150107.pdf"
+    },
+    {
+      "file_name": "p138-160附錄七金融機構辦理電子銀行業務安全控管作業基準含附錄1150107.pdf",
+      "normalized_base_name": "金融機構辦理電子銀行業務安全控管作業基準含附錄1150107",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\p138-160附錄七金融機構辦理電子銀行業務安全控管作業基準含附錄1150107.pdf"
+    },
+    {
+      "file_name": "p30-32附錄一金融機構辦理電子銀行業務安全控管作業基準含附錄1150107.pdf",
+      "normalized_base_name": "金融機構辦理電子銀行業務安全控管作業基準含附錄1150107",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\p30-32附錄一金融機構辦理電子銀行業務安全控管作業基準含附錄1150107.pdf"
+    },
+    {
+      "file_name": "p33-115附錄二三金融機構辦理電子銀行業務安全控管作業基準含附錄1150107.pdf",
+      "normalized_base_name": "金融機構辦理電子銀行業務安全控管作業基準含附錄1150107",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\p33-115附錄二三金融機構辦理電子銀行業務安全控管作業基準含附錄1150107.pdf"
+    },
+    {
+      "file_name": "p6-7附件 保險業經營行動服務自律規範(原為「保險業經營行動投保業務自律規範」)全條文(1130805).pdf",
+      "normalized_base_name": "保險業經營行動服務自律規範(原為「保險業經營行動投保業務自律規範」)全條文(1130805)",
+      "layer": "一般層級",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料\\p6-7附件 保險業經營行動服務自律規範(原為「保險業經營行動投保業務自律規範」)全條文(1130805).pdf"
+    },
+    {
+      "file_name": "~內部控制制度總則(114.04.11修)--FOREWORD.pdf",
+      "normalized_base_name": "~內部控制制度總則(114.04.11修)--FOREWORD",
+      "layer": "一般層級",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料\\~內部控制制度總則(114.04.11修)--FOREWORD.pdf"
+    },
+    {
+      "file_name": "「新興科技資通安全自律規範」完整條文-114.05 p1-6本文.pdf",
+      "normalized_base_name": "「新興科技資通安全自律規範」完整條文-114.05",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\「新興科技資通安全自律規範」完整條文-114.05 p1-6本文.pdf"
+    },
+    {
+      "file_name": "「新興科技資通安全自律規範」完整條文-114.05 p7-13附錄.pdf",
+      "normalized_base_name": "「新興科技資通安全自律規範」完整條文-114.05",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\「新興科技資通安全自律規範」完整條文-114.05 p7-13附錄.pdf"
+    },
+    {
+      "file_name": "「期貨業資通系統與服務供應鏈風險管理自律規範」完整條文 p1-6本文.pdf",
+      "normalized_base_name": "「期貨業資通系統與服務供應鏈風險管理自律規範」完整條文",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\「期貨業資通系統與服務供應鏈風險管理自律規範」完整條文 p1-6本文.pdf"
+    },
+    {
+      "file_name": "「期貨業資通系統與服務供應鏈風險管理自律規範」完整條文 p7-9附件.pdf",
+      "normalized_base_name": "「期貨業資通系統與服務供應鏈風險管理自律規範」完整條文",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\「期貨業資通系統與服務供應鏈風險管理自律規範」完整條文 p7-9附件.pdf"
+    },
+    {
+      "file_name": "「網路安全防護自律規範」完整條文.pdf",
+      "normalized_base_name": "「網路安全防護自律規範」完整條文",
+      "layer": "一般層級",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料\\「網路安全防護自律規範」完整條文.pdf"
+    },
+    {
+      "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.pdf",
+      "normalized_base_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文",
+      "layer": "一般層級",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料\\中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.pdf"
+    },
+    {
+      "file_name": "中華民國證券商業同業公會證券商運用人工智慧技術自律規範.pdf",
+      "normalized_base_name": "中華民國證券商業同業公會證券商運用人工智慧技術自律規範",
+      "layer": "一般層級",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料\\中華民國證券商業同業公會證券商運用人工智慧技術自律規範.pdf"
+    },
+    {
+      "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.pdf",
+      "normalized_base_name": "中華民國證券商業同業公會資訊作業韌性自律規範",
+      "layer": "一般層級",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料\\中華民國證券商業同業公會資訊作業韌性自律規範.pdf"
+    },
+    {
+      "file_name": "保險業經營電子商務自律規範全條文(114.11.10金管保綜字第1140433678號).pdf",
+      "normalized_base_name": "保險業經營電子商務自律規範全條文(114.11.10金管保綜字第1140433678號)",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\保險業經營電子商務自律規範全條文(114.11.10金管保綜字第1140433678號).pdf"
+    },
+    {
+      "file_name": "保險業辦理資訊安全防護自律規範-2.pdf",
+      "normalized_base_name": "保險業辦理資訊安全防護自律規範-2",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\保險業辦理資訊安全防護自律規範-2.pdf"
+    },
+    {
+      "file_name": "保險業辦理資訊安全防護自律規範-3.pdf",
+      "normalized_base_name": "保險業辦理資訊安全防護自律規範-3",
+      "layer": "一般層級",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料\\保險業辦理資訊安全防護自律規範-3.pdf"
+    },
+    {
+      "file_name": "保險業辦理資訊安全防護自律規範-4.pdf",
+      "normalized_base_name": "保險業辦理資訊安全防護自律規範-4",
+      "layer": "一般層級",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料\\保險業辦理資訊安全防護自律規範-4.pdf"
+    },
+    {
+      "file_name": "保險業辦理資訊安全防護自律規範-5.pdf",
+      "normalized_base_name": "保險業辦理資訊安全防護自律規範-5",
+      "layer": "一般層級",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料\\保險業辦理資訊安全防護自律規範-5.pdf"
+    },
+    {
+      "file_name": "保險業辦理資訊安全防護自律規範-6.pdf",
+      "normalized_base_name": "保險業辦理資訊安全防護自律規範-6",
+      "layer": "一般層級",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料\\保險業辦理資訊安全防護自律規範-6.pdf"
+    },
+    {
+      "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.pdf",
+      "normalized_base_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範",
+      "layer": "一般層級",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料\\保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.pdf"
+    },
+    {
+      "file_name": "建立期貨商資通安全檢查機制_所有條文.pdf",
+      "normalized_base_name": "建立期貨商資通安全檢查機制_所有條文",
+      "layer": "一般層級",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料\\建立期貨商資通安全檢查機制_所有條文.pdf"
+    },
+    {
+      "file_name": "建立證券商資通安全檢查機制.PDF",
+      "normalized_base_name": "建立證券商資通安全檢查機制",
+      "layer": "一般層級",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料\\建立證券商資通安全檢查機制.PDF"
+    },
+    {
+      "file_name": "期貨商作業委託他人處理應注意事項逐點說明.pdf",
+      "normalized_base_name": "期貨商作業委託他人處理應注意事項逐點說明",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\期貨商作業委託他人處理應注意事項逐點說明.pdf"
+    },
+    {
+      "file_name": "期貨商受理通信或電子化方式開戶應行注意事項.pdf",
+      "normalized_base_name": "期貨商受理通信或電子化方式開戶應行注意事項",
+      "layer": "一般層級",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料\\期貨商受理通信或電子化方式開戶應行注意事項.pdf"
+    },
+    {
+      "file_name": "期貨商通報重大資安事件之範圍申報程序及其他應遵循事項(112.11.24訂定).pdf",
+      "normalized_base_name": "期貨商通報重大資安事件之範圍申報程序及其他應遵循事項(112.11.24訂定)",
+      "layer": "一般層級",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料\\期貨商通報重大資安事件之範圍申報程序及其他應遵循事項(112.11.24訂定).pdf"
+    },
+    {
+      "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.pdf",
+      "normalized_base_name": "發函附件：供應鏈風險管理自律規範111.12.23",
+      "layer": "一般層級",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料\\發函附件：供應鏈風險管理自律規範111.12.23.pdf"
+    },
+    {
+      "file_name": "發函附件：網路安全防護自律規範111.12.23.pdf",
+      "normalized_base_name": "發函附件：網路安全防護自律規範111.12.23",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\發函附件：網路安全防護自律規範111.12.23.pdf"
+    },
+    {
+      "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.pdf",
+      "normalized_base_name": "發函附件：資通系統安全防護基準自律規範111.12.23",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\發函附件：資通系統安全防護基準自律規範111.12.23.pdf"
+    },
+    {
+      "file_name": "財團法人中華民國證券櫃檯買賣中心證券商經營自行買賣具證券性質之虛擬通貨業務管理辦法1090120.PDF",
+      "normalized_base_name": "財團法人中華民國證券櫃檯買賣中心證券商經營自行買賣具證券性質之虛擬通貨業務管理辦法1090120",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\財團法人中華民國證券櫃檯買賣中心證券商經營自行買賣具證券性質之虛擬通貨業務管理辦法1090120.PDF"
+    },
+    {
+      "file_name": "金融機構使用物聯網設備安全控管規範_1100430.pdf",
+      "normalized_base_name": "金融機構使用物聯網設備安全控管規範_1100430",
+      "layer": "一般層級",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料\\金融機構使用物聯網設備安全控管規範_1100430.pdf"
+    },
+    {
+      "file_name": "金融機構資訊作業韌性規範_20240521.pdf",
+      "normalized_base_name": "金融機構資訊作業韌性規範_20240521",
+      "layer": "一般層級",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料\\金融機構資訊作業韌性規範_20240521.pdf"
+    },
+    {
+      "file_name": "金融機構資訊系統安全基準.pdf",
+      "normalized_base_name": "金融機構資訊系統安全基準",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\金融機構資訊系統安全基準.pdf"
+    },
+    {
+      "file_name": "金融機構資通安全防護基準.pdf",
+      "normalized_base_name": "金融機構資通安全防護基準",
+      "layer": "一般層級",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料\\金融機構資通安全防護基準.pdf"
+    },
+    {
+      "file_name": "附件1_金融機構使用電子簽名機制安全控管作業規範_20240306.pdf",
+      "normalized_base_name": "附件1_金融機構使用電子簽名機制安全控管作業規範_20240306",
+      "layer": "一般層級",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料\\附件1_金融機構使用電子簽名機制安全控管作業規範_20240306.pdf"
+    },
+    {
+      "file_name": "附件1_金融機構提供行動裝置應用程式作業規範.pdf",
+      "normalized_base_name": "附件1_金融機構提供行動裝置應用程式作業規範",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\附件1_金融機構提供行動裝置應用程式作業規範.pdf"
+    },
+    {
+      "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.pdf",
+      "normalized_base_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30",
+      "layer": "一般層級",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料\\附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.pdf"
+    },
+    {
+      "file_name": "附件1_金融機構運用新興科技作業規範1090417.pdf",
+      "normalized_base_name": "附件1_金融機構運用新興科技作業規範1090417",
+      "layer": "一般層級",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料\\附件1_金融機構運用新興科技作業規範1090417.pdf"
+    },
+    {
+      "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709 p1-3本文.pdf",
+      "normalized_base_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\附件一_金融機構提供自動櫃員機系統安全作業規範1140709 p1-3本文.pdf"
+    },
+    {
+      "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709 p4附件.pdf",
+      "normalized_base_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709",
+      "layer": "表格特殊層",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\表格特殊層\\01_原始PDF\\法規資料\\附件一_金融機構提供自動櫃員機系統安全作業規範1140709 p4附件.pdf"
+    },
+    {
+      "file_name": "附件一_金融機構運用人工智慧技術作業規範1141012.pdf",
+      "normalized_base_name": "附件一_金融機構運用人工智慧技術作業規範1141012",
+      "layer": "一般層級",
+      "destination": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\一般層級\\01_原始PDF\\法規資料\\附件一_金融機構運用人工智慧技術作業規範1141012.pdf"
+    }
+  ]
+}

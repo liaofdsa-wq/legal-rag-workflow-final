@@ -1,0 +1,90 @@
+{
+  "run_id": "holdout_file_96899edaff803f3c_seed427_n500",
+  "experiment_kind": "leave_one_file_out",
+  "seed": 427,
+  "max_pairs": 500,
+  "holdout_separator": null,
+  "holdout_file": "1110921新興科技資通安全自律規範及修正對照表",
+  "holdout_length_pattern": null,
+  "max_train_step_len": null,
+  "max_test_step_len": null,
+  "train_count": 494,
+  "test_count": 6,
+  "split_errors": [],
+  "metrics": {
+    "case_count": 6,
+    "cos_mean_lr_vs_target": {
+      "count": 6,
+      "mean": 0.904203,
+      "p10": 0.842345,
+      "p50": 0.927634,
+      "p90": 0.94263,
+      "min": 0.821631,
+      "max": 0.94372
+    },
+    "cos_mean_lsr_vs_target": {
+      "count": 6,
+      "mean": 0.842694,
+      "p10": 0.792551,
+      "p50": 0.856721,
+      "p90": 0.878811,
+      "min": 0.780205,
+      "max": 0.880125
+    },
+    "cos_direct_matrix_vs_target": {
+      "count": 6,
+      "mean": 0.839751,
+      "p10": 0.809292,
+      "p50": 0.846514,
+      "p90": 0.863445,
+      "min": 0.804628,
+      "max": 0.864962
+    },
+    "cos_element_first_step_vs_left_sep": {
+      "count": 6,
+      "mean": 0.868633,
+      "p10": 0.845224,
+      "p50": 0.856302,
+      "p90": 0.904374,
+      "min": 0.844376,
+      "max": 0.927599
+    },
+    "cos_element_matrix_vs_target": {
+      "count": 6,
+      "mean": 0.838528,
+      "p10": 0.818424,
+      "p50": 0.841344,
+      "p90": 0.855815,
+      "min": 0.812153,
+      "max": 0.857829
+    },
+    "element_minus_direct": {
+      "count": 6,
+      "mean": -0.001223,
+      "p10": -0.009166,
+      "p50": -0.00763,
+      "p90": 0.013128,
+      "min": -0.009185,
+      "max": 0.01873
+    },
+    "element_minus_mean": {
+      "count": 6,
+      "mean": -0.065675,
+      "p10": -0.090728,
+      "p50": -0.086372,
+      "p90": -0.019925,
+      "min": -0.091538,
+      "max": 0.011056
+    },
+    "win_rate_vs_direct": 0.333333,
+    "win_rate_vs_mean": 0.166667
+  },
+  "outputs": {
+    "metrics": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\universal_compose_generalization_incremental_15min\\runs\\holdout_file_96899edaff803f3c_seed427_n500\\metrics.csv",
+    "summary": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\universal_compose_generalization_incremental_15min\\runs\\holdout_file_96899edaff803f3c_seed427_n500\\summary.json",
+    "by_bucket": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\universal_compose_generalization_incremental_15min\\runs\\holdout_file_96899edaff803f3c_seed427_n500\\by_bucket.csv",
+    "by_separator": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\universal_compose_generalization_incremental_15min\\runs\\holdout_file_96899edaff803f3c_seed427_n500\\by_separator.csv",
+    "by_relation_kind": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\universal_compose_generalization_incremental_15min\\runs\\holdout_file_96899edaff803f3c_seed427_n500\\by_relation_kind.csv"
+  },
+  "elapsed_sec": 1.677
+}

@@ -1,0 +1,90 @@
+{
+  "run_id": "holdout_file_b66170780d8bb11a_seed426_n1000",
+  "experiment_kind": "leave_one_file_out",
+  "seed": 426,
+  "max_pairs": 1000,
+  "holdout_separator": null,
+  "holdout_file": "金融機構辦理電子銀行業務安全控管作業基準含附錄1150107",
+  "holdout_length_pattern": null,
+  "max_train_step_len": null,
+  "max_test_step_len": null,
+  "train_count": 900,
+  "test_count": 100,
+  "split_errors": [],
+  "metrics": {
+    "case_count": 100,
+    "cos_mean_lr_vs_target": {
+      "count": 100,
+      "mean": 0.913164,
+      "p10": 0.871553,
+      "p50": 0.920305,
+      "p90": 0.951843,
+      "min": 0.755393,
+      "max": 0.978672
+    },
+    "cos_mean_lsr_vs_target": {
+      "count": 100,
+      "mean": 0.844539,
+      "p10": 0.807856,
+      "p50": 0.843133,
+      "p90": 0.883742,
+      "min": 0.728139,
+      "max": 0.899756
+    },
+    "cos_direct_matrix_vs_target": {
+      "count": 100,
+      "mean": 0.841914,
+      "p10": 0.802033,
+      "p50": 0.841676,
+      "p90": 0.879617,
+      "min": 0.768649,
+      "max": 0.920209
+    },
+    "cos_element_first_step_vs_left_sep": {
+      "count": 100,
+      "mean": 0.884061,
+      "p10": 0.858881,
+      "p50": 0.884573,
+      "p90": 0.909157,
+      "min": 0.815532,
+      "max": 0.958016
+    },
+    "cos_element_matrix_vs_target": {
+      "count": 100,
+      "mean": 0.836977,
+      "p10": 0.805658,
+      "p50": 0.836279,
+      "p90": 0.872835,
+      "min": 0.764521,
+      "max": 0.925057
+    },
+    "element_minus_direct": {
+      "count": 100,
+      "mean": -0.004938,
+      "p10": -0.018598,
+      "p50": -0.005584,
+      "p90": 0.009723,
+      "min": -0.028671,
+      "max": 0.040276
+    },
+    "element_minus_mean": {
+      "count": 100,
+      "mean": -0.076188,
+      "p10": -0.117795,
+      "p50": -0.075372,
+      "p90": -0.030154,
+      "min": -0.162168,
+      "max": 0.051794
+    },
+    "win_rate_vs_direct": 0.32,
+    "win_rate_vs_mean": 0.03
+  },
+  "outputs": {
+    "metrics": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\universal_compose_generalization_incremental_15min\\runs\\holdout_file_b66170780d8bb11a_seed426_n1000\\metrics.csv",
+    "summary": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\universal_compose_generalization_incremental_15min\\runs\\holdout_file_b66170780d8bb11a_seed426_n1000\\summary.json",
+    "by_bucket": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\universal_compose_generalization_incremental_15min\\runs\\holdout_file_b66170780d8bb11a_seed426_n1000\\by_bucket.csv",
+    "by_separator": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\universal_compose_generalization_incremental_15min\\runs\\holdout_file_b66170780d8bb11a_seed426_n1000\\by_separator.csv",
+    "by_relation_kind": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\universal_compose_generalization_incremental_15min\\runs\\holdout_file_b66170780d8bb11a_seed426_n1000\\by_relation_kind.csv"
+  },
+  "elapsed_sec": 2.473
+}

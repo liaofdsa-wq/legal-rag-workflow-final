@@ -1,0 +1,7 @@
+﻿relation_kind,case_count,cos_mean_lr_vs_target,cos_mean_lsr_vs_target,cos_direct_matrix_vs_target,cos_element_first_step_vs_left_sep,cos_element_matrix_vs_target,element_minus_direct,element_minus_mean,win_rate_vs_direct,win_rate_vs_mean
+cell_join,35,0.934438,0.851508,0.873018,0.899206,0.85574,-0.017278,-0.078698,0.0,0.0
+hierarchy_join,34,0.930167,0.848904,0.871379,0.901319,0.85585,-0.015529,-0.074317,0.0,0.0
+key_value_join,69,0.919049,0.832097,0.867716,0.925971,0.849177,-0.018539,-0.069872,0.0,0.014493
+list_join,52,0.931105,0.846091,0.879279,0.907384,0.861414,-0.017864,-0.069691,0.019231,0.0
+paragraph_join,34,0.932281,0.838339,0.864102,0.890579,0.848152,-0.01595,-0.084128,0.0,0.0
+relation_join,26,0.919483,0.883123,0.871385,0.923863,0.872145,0.00076,-0.047338,0.538462,0.0

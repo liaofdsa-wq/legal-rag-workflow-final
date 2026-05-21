@@ -1,0 +1,493 @@
+{
+  "model_name": "BAAI/bge-m3",
+  "tree_input_dir": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\json\\single_tree_per_file",
+  "output_dir": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\leaf_join_rag_compare",
+  "tree_count": 46,
+  "leaf_candidate_total": 5162,
+  "case_count": 968,
+  "sampled_case_count": 80,
+  "covered_sampled_case_count": 80,
+  "candidate_scope": "sampled",
+  "candidate_count": 3364,
+  "per_child_count": 5,
+  "seed": 419,
+  "query_template": "{topic} 有哪些種類",
+  "connector": "的子項為",
+  "top_k": 20,
+  "max_parent_tokenish": 60,
+  "max_child_tokenish": 120,
+  "max_leaf_tokenish": 384,
+  "min_children": 1,
+  "max_children": 20,
+  "include_special": true,
+  "child_count_case_distribution": {
+    "17": 6,
+    "2": 243,
+    "6": 46,
+    "14": 4,
+    "3": 238,
+    "4": 145,
+    "5": 76,
+    "8": 30,
+    "7": 43,
+    "1": 73,
+    "15": 5,
+    "9": 24,
+    "10": 15,
+    "12": 5,
+    "11": 9,
+    "13": 4,
+    "16": 1,
+    "20": 1
+  },
+  "child_count_sample_distribution": {
+    "1": 5,
+    "2": 5,
+    "3": 5,
+    "4": 5,
+    "5": 5,
+    "6": 5,
+    "7": 5,
+    "8": 5,
+    "9": 5,
+    "10": 5,
+    "11": 5,
+    "12": 5,
+    "13": 4,
+    "14": 4,
+    "15": 5,
+    "16": 1,
+    "17": 5,
+    "20": 1
+  },
+  "coverage_csv": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\leaf_join_rag_compare\\leaf_join_rag_compare_coverage.csv",
+  "collect_only": false,
+  "model_load_sec": 34.814,
+  "encode_sec": 3340.542,
+  "embedding_shape": {
+    "queries": [
+      80,
+      1024
+    ],
+    "old_blankline": [
+      3364,
+      1024
+    ],
+    "arrow_current": [
+      3364,
+      1024
+    ],
+    "child_relation": [
+      3364,
+      1024
+    ]
+  },
+  "metric_summary": {
+    "old_blankline": {
+      "relevant_score_mean": {
+        "count": 80,
+        "mean": 0.642673,
+        "p50": 0.636856,
+        "p75": 0.704036,
+        "p90": 0.769704,
+        "min": 0.391217,
+        "max": 0.912966
+      },
+      "relevant_score_max": {
+        "count": 80,
+        "mean": 0.677102,
+        "p50": 0.668017,
+        "p75": 0.749669,
+        "p90": 0.810845,
+        "min": 0.450672,
+        "max": 0.92862
+      },
+      "best_relevant_rank": {
+        "count": 80,
+        "mean": 26.25,
+        "p50": 1.0,
+        "p75": 7.25,
+        "p90": 44.299995,
+        "min": 1.0,
+        "max": 554.0
+      },
+      "worst_relevant_rank": {
+        "count": 80,
+        "mean": 225.237503,
+        "p50": 37.0,
+        "p75": 137.5,
+        "p90": 637.899963,
+        "min": 1.0,
+        "max": 3295.0
+      },
+      "recall_at_5": {
+        "count": 80,
+        "mean": 0.292332,
+        "p50": 0.180828,
+        "p75": 0.5,
+        "p90": 0.85,
+        "min": 0.0,
+        "max": 1.0
+      },
+      "recall_at_10": {
+        "count": 80,
+        "mean": 0.466897,
+        "p50": 0.405882,
+        "p75": 0.808333,
+        "p90": 1.0,
+        "min": 0.0,
+        "max": 1.0
+      },
+      "recall_at_20": {
+        "count": 80,
+        "mean": 0.613663,
+        "p50": 0.74537,
+        "p75": 1.0,
+        "p90": 1.0,
+        "min": 0.0,
+        "max": 1.0
+      },
+      "recall_at_top_k": {
+        "count": 80,
+        "mean": 0.613663,
+        "p50": 0.74537,
+        "p75": 1.0,
+        "p90": 1.0,
+        "min": 0.0,
+        "max": 1.0
+      }
+    },
+    "arrow_current": {
+      "relevant_score_mean": {
+        "count": 80,
+        "mean": 0.557257,
+        "p50": 0.55387,
+        "p75": 0.60971,
+        "p90": 0.685402,
+        "min": 0.343071,
+        "max": 0.854469
+      },
+      "relevant_score_max": {
+        "count": 80,
+        "mean": 0.58155,
+        "p50": 0.567305,
+        "p75": 0.629341,
+        "p90": 0.75348,
+        "min": 0.37192,
+        "max": 0.914105
+      },
+      "best_relevant_rank": {
+        "count": 80,
+        "mean": 215.175003,
+        "p50": 5.0,
+        "p75": 60.25,
+        "p90": 461.599854,
+        "min": 1.0,
+        "max": 3182.0
+      },
+      "worst_relevant_rank": {
+        "count": 80,
+        "mean": 623.6875,
+        "p50": 110.0,
+        "p75": 422.75,
+        "p90": 2695.300049,
+        "min": 2.0,
+        "max": 3312.0
+      },
+      "recall_at_5": {
+        "count": 80,
+        "mean": 0.209894,
+        "p50": 0.014535,
+        "p75": 0.364011,
+        "p90": 0.666667,
+        "min": 0.0,
+        "max": 1.0
+      },
+      "recall_at_10": {
+        "count": 80,
+        "mean": 0.334953,
+        "p50": 0.084932,
+        "p75": 0.678571,
+        "p90": 1.0,
+        "min": 0.0,
+        "max": 1.0
+      },
+      "recall_at_20": {
+        "count": 80,
+        "mean": 0.434066,
+        "p50": 0.186147,
+        "p75": 1.0,
+        "p90": 1.0,
+        "min": 0.0,
+        "max": 1.0
+      },
+      "recall_at_top_k": {
+        "count": 80,
+        "mean": 0.434066,
+        "p50": 0.186147,
+        "p75": 1.0,
+        "p90": 1.0,
+        "min": 0.0,
+        "max": 1.0
+      }
+    },
+    "child_relation": {
+      "relevant_score_mean": {
+        "count": 80,
+        "mean": 0.643875,
+        "p50": 0.633384,
+        "p75": 0.709162,
+        "p90": 0.773605,
+        "min": 0.457081,
+        "max": 0.916916
+      },
+      "relevant_score_max": {
+        "count": 80,
+        "mean": 0.675727,
+        "p50": 0.670451,
+        "p75": 0.750598,
+        "p90": 0.803515,
+        "min": 0.484884,
+        "max": 0.928409
+      },
+      "best_relevant_rank": {
+        "count": 80,
+        "mean": 50.587502,
+        "p50": 1.0,
+        "p75": 7.75,
+        "p90": 98.29998,
+        "min": 1.0,
+        "max": 1402.0
+      },
+      "worst_relevant_rank": {
+        "count": 80,
+        "mean": 255.212494,
+        "p50": 47.5,
+        "p75": 169.0,
+        "p90": 591.999817,
+        "min": 1.0,
+        "max": 3157.0
+      },
+      "recall_at_5": {
+        "count": 80,
+        "mean": 0.284261,
+        "p50": 0.166667,
+        "p75": 0.5,
+        "p90": 0.758333,
+        "min": 0.0,
+        "max": 1.0
+      },
+      "recall_at_10": {
+        "count": 80,
+        "mean": 0.442537,
+        "p50": 0.333333,
+        "p75": 0.925,
+        "p90": 1.0,
+        "min": 0.0,
+        "max": 1.0
+      },
+      "recall_at_20": {
+        "count": 80,
+        "mean": 0.572169,
+        "p50": 0.651852,
+        "p75": 1.0,
+        "p90": 1.0,
+        "min": 0.0,
+        "max": 1.0
+      },
+      "recall_at_top_k": {
+        "count": 80,
+        "mean": 0.572169,
+        "p50": 0.651852,
+        "p75": 1.0,
+        "p90": 1.0,
+        "min": 0.0,
+        "max": 1.0
+      }
+    }
+  },
+  "top_overlap_summary": {
+    "top20_jaccard_old_blankline_vs_arrow_current": {
+      "count": 80,
+      "mean": 0.284884,
+      "p50": 0.25,
+      "p75": 0.391626,
+      "p90": 0.666667,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "top20_jaccard_old_blankline_vs_child_relation": {
+      "count": 80,
+      "mean": 0.645451,
+      "p50": 0.666667,
+      "p75": 0.818182,
+      "p90": 0.904762,
+      "min": 0.025641,
+      "max": 1.0
+    },
+    "top20_jaccard_arrow_current_vs_child_relation": {
+      "count": 80,
+      "mean": 0.29382,
+      "p50": 0.25,
+      "p75": 0.428571,
+      "p90": 0.606667,
+      "min": 0.0,
+      "max": 1.0
+    }
+  },
+  "delta_vs_old_summary": {
+    "arrow_current_minus_old_relevant_score_mean": {
+      "count": 80,
+      "mean": -0.085416,
+      "p50": -0.085331,
+      "p75": -0.057958,
+      "p90": -0.009398,
+      "min": -0.225964,
+      "max": 0.168614
+    },
+    "arrow_current_minus_old_relevant_score_max": {
+      "count": 80,
+      "mean": -0.095552,
+      "p50": -0.101773,
+      "p75": -0.062686,
+      "p90": -0.024031,
+      "min": -0.2249,
+      "max": 0.155863
+    },
+    "arrow_current_minus_old_best_relevant_rank": {
+      "count": 80,
+      "mean": -188.925003,
+      "p50": -2.0,
+      "p75": 0.0,
+      "p90": 2.0,
+      "min": -2907.0,
+      "max": 553.0
+    },
+    "arrow_current_minus_old_worst_relevant_rank": {
+      "count": 80,
+      "mean": -398.450012,
+      "p50": -15.0,
+      "p75": 0.0,
+      "p90": 95.999985,
+      "min": -3244.0,
+      "max": 1736.0
+    },
+    "arrow_current_minus_old_recall_at_5": {
+      "count": 80,
+      "mean": -0.082438,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 0.005882,
+      "min": -1.0,
+      "max": 0.454545
+    },
+    "arrow_current_minus_old_recall_at_10": {
+      "count": 80,
+      "mean": -0.131943,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 0.0,
+      "min": -1.0,
+      "max": 0.636364
+    },
+    "arrow_current_minus_old_recall_at_20": {
+      "count": 80,
+      "mean": -0.179597,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 0.058823,
+      "min": -1.0,
+      "max": 1.0
+    },
+    "arrow_current_minus_old_recall_at_top_k": {
+      "count": 80,
+      "mean": -0.179597,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 0.058823,
+      "min": -1.0,
+      "max": 1.0
+    },
+    "child_relation_minus_old_relevant_score_mean": {
+      "count": 80,
+      "mean": 0.001202,
+      "p50": 0.002509,
+      "p75": 0.015896,
+      "p90": 0.035257,
+      "min": -0.070291,
+      "max": 0.081525
+    },
+    "child_relation_minus_old_relevant_score_max": {
+      "count": 80,
+      "mean": -0.001375,
+      "p50": -0.000106,
+      "p75": 0.012238,
+      "p90": 0.029337,
+      "min": -0.079872,
+      "max": 0.116047
+    },
+    "child_relation_minus_old_best_relevant_rank": {
+      "count": 80,
+      "mean": -24.3375,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 2.0,
+      "min": -848.0,
+      "max": 24.0
+    },
+    "child_relation_minus_old_worst_relevant_rank": {
+      "count": 80,
+      "mean": -29.975,
+      "p50": 0.0,
+      "p75": 2.25,
+      "p90": 47.699989,
+      "min": -1065.0,
+      "max": 1075.0
+    },
+    "child_relation_minus_old_recall_at_5": {
+      "count": 80,
+      "mean": -0.008071,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 0.075,
+      "min": -0.5,
+      "max": 0.25
+    },
+    "child_relation_minus_old_recall_at_10": {
+      "count": 80,
+      "mean": -0.02436,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 0.101111,
+      "min": -0.75,
+      "max": 0.2
+    },
+    "child_relation_minus_old_recall_at_20": {
+      "count": 80,
+      "mean": -0.041494,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 0.068334,
+      "min": -1.0,
+      "max": 0.333334
+    },
+    "child_relation_minus_old_recall_at_top_k": {
+      "count": 80,
+      "mean": -0.041494,
+      "p50": 0.0,
+      "p75": 0.0,
+      "p90": 0.068334,
+      "min": -1.0,
+      "max": 0.333334
+    }
+  },
+  "outputs": {
+    "csv": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\leaf_join_rag_compare\\leaf_join_rag_compare.csv",
+    "xlsx": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\leaf_join_rag_compare\\leaf_join_rag_compare.xlsx",
+    "jsonl": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\leaf_join_rag_compare\\leaf_join_rag_compare.jsonl",
+    "by_child_count_csv": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\leaf_join_rag_compare\\leaf_join_rag_compare_by_child_count.csv",
+    "coverage_csv": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\leaf_join_rag_compare\\leaf_join_rag_compare_coverage.csv",
+    "summary": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\leaf_join_rag_compare\\leaf_join_rag_compare_summary.json"
+  },
+  "elapsed_sec": 3379.747
+}

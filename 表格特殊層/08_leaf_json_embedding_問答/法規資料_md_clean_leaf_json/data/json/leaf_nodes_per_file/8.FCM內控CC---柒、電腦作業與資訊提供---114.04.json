@@ -1,0 +1,909 @@
+[
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 1,
+    "path_key": "1",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      1
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "一、",
+    "sibling_order": 1,
+    "path_key": "2.1",
+    "path_names": [
+      "柒、",
+      "一、"
+    ],
+    "pages": [
+      1,
+      2
+    ],
+    "content": "一、 風險評鑑與管理：CC-21000"
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 3,
+    "path_key": "3",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      2,
+      3
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "二、",
+    "sibling_order": 1,
+    "path_key": "4.1",
+    "path_names": [
+      "柒、",
+      "二、"
+    ],
+    "pages": [
+      3,
+      4
+    ],
+    "content": "二、 資訊安全政策：CC-22000"
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 5,
+    "path_key": "5",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      4,
+      5
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "三、",
+    "sibling_order": 1,
+    "path_key": "6.1",
+    "path_names": [
+      "柒、",
+      "三、"
+    ],
+    "pages": [
+      5,
+      6
+    ],
+    "content": "三、 安全組織：CC-23000"
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 7,
+    "path_key": "7",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      6,
+      7
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 8,
+    "path_key": "8",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      7,
+      8
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 9,
+    "path_key": "9",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      8,
+      9
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "四、",
+    "sibling_order": 1,
+    "path_key": "10.1",
+    "path_names": [
+      "柒、",
+      "四、"
+    ],
+    "pages": [
+      9,
+      10
+    ],
+    "content": "四、資訊資產分類與控制：CC-24000"
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 11,
+    "path_key": "11",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      10,
+      11
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "五、",
+    "sibling_order": 1,
+    "path_key": "12.1",
+    "path_names": [
+      "柒、",
+      "五、"
+    ],
+    "pages": [
+      11,
+      12
+    ],
+    "content": "五、人員安全：CC-25000"
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 13,
+    "path_key": "13",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      12,
+      13
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "六、",
+    "sibling_order": 1,
+    "path_key": "14.1",
+    "path_names": [
+      "柒、",
+      "六、"
+    ],
+    "pages": [
+      13,
+      14
+    ],
+    "content": "六、實體及環境安全：CC-26000"
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 15,
+    "path_key": "15",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      14,
+      15
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 16,
+    "path_key": "16",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      15,
+      16
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "七、",
+    "sibling_order": 1,
+    "path_key": "17.1",
+    "path_names": [
+      "柒、",
+      "七、"
+    ],
+    "pages": [
+      16,
+      17
+    ],
+    "content": "七、通訊與作業管理：CC-27000"
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 18,
+    "path_key": "18",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      17,
+      18
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 19,
+    "path_key": "19",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      18,
+      19
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 20,
+    "path_key": "20",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      19,
+      20
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 21,
+    "path_key": "21",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      20,
+      21
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 22,
+    "path_key": "22",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      21,
+      22
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 23,
+    "path_key": "23",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      22,
+      23
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 24,
+    "path_key": "24",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      23,
+      24
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 25,
+    "path_key": "25",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      24,
+      25
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 26,
+    "path_key": "26",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      25,
+      26
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 27,
+    "path_key": "27",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      26,
+      27
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 28,
+    "path_key": "28",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      27,
+      28
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 29,
+    "path_key": "29",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      28,
+      29
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 30,
+    "path_key": "30",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      29,
+      30
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "八、",
+    "sibling_order": 1,
+    "path_key": "31.1",
+    "path_names": [
+      "柒、",
+      "八、"
+    ],
+    "pages": [
+      30,
+      31
+    ],
+    "content": "八、存取控制：CC-28000"
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 32,
+    "path_key": "32",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      31,
+      32
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 33,
+    "path_key": "33",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      32,
+      33
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 34,
+    "path_key": "34",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      33,
+      34
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 35,
+    "path_key": "35",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      34,
+      35
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 36,
+    "path_key": "36",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      35,
+      36
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "九、",
+    "sibling_order": 1,
+    "path_key": "37.1",
+    "path_names": [
+      "柒、",
+      "九、"
+    ],
+    "pages": [
+      36,
+      37
+    ],
+    "content": "九、系統開發及維護：CC-29000"
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 38,
+    "path_key": "38",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      37,
+      38
+    ],
+    "content": "字"
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 39,
+    "path_key": "39",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      38,
+      39
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 40,
+    "path_key": "40",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      39,
+      40
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 41,
+    "path_key": "41",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      40,
+      41
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 42,
+    "path_key": "42",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      41,
+      42
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 43,
+    "path_key": "43",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      42,
+      43
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 44,
+    "path_key": "44",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      43,
+      44
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 45,
+    "path_key": "45",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      44,
+      45
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 46,
+    "path_key": "46",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      45,
+      46
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 47,
+    "path_key": "47",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      46,
+      47
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 48,
+    "path_key": "48",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      47,
+      48
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 49,
+    "path_key": "49",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      48,
+      49
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "十、",
+    "sibling_order": 1,
+    "path_key": "50.1",
+    "path_names": [
+      "柒、",
+      "十、"
+    ],
+    "pages": [
+      49,
+      50
+    ],
+    "content": "十、營運持續管理：CC-30000"
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 51,
+    "path_key": "51",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      50,
+      51
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 52,
+    "path_key": "52",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      51,
+      52
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 53,
+    "path_key": "53",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      52,
+      53
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 54,
+    "path_key": "54",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      53,
+      54
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "十一、",
+    "sibling_order": 1,
+    "path_key": "55.1",
+    "path_names": [
+      "柒、",
+      "十一、"
+    ],
+    "pages": [
+      54,
+      55
+    ],
+    "content": "十一、符合性：CC-31000"
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 56,
+    "path_key": "56",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      55,
+      56
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "十二、",
+    "sibling_order": 1,
+    "path_key": "57.1",
+    "path_names": [
+      "柒、",
+      "十二、"
+    ],
+    "pages": [
+      56,
+      57
+    ],
+    "content": "十二、新興科技應用：CC-32000"
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 58,
+    "path_key": "58",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      57,
+      58
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 59,
+    "path_key": "59",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      58,
+      59
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 60,
+    "path_key": "60",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      59,
+      60
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 61,
+    "path_key": "61",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      60,
+      61
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "十三、",
+    "sibling_order": 1,
+    "path_key": "62.1",
+    "path_names": [
+      "柒、",
+      "十三、"
+    ],
+    "pages": [
+      61,
+      62
+    ],
+    "content": "十三、其他：CC-33000"
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 63,
+    "path_key": "63",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      62,
+      63
+    ],
+    "content": ""
+  },
+  {
+    "file_name": "8.FCM內控CC---柒、電腦作業與資訊提供---114.04.md",
+    "node_name": "柒、",
+    "sibling_order": 64,
+    "path_key": "64",
+    "path_names": [
+      "柒、"
+    ],
+    "pages": [
+      63
+    ],
+    "content": ""
+  }
+]

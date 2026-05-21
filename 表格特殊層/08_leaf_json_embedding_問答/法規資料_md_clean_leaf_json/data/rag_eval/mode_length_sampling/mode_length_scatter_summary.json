@@ -1,0 +1,42 @@
+{
+  "all_nodes": {
+    "record_count": 6638,
+    "unique_lengths": 304,
+    "min_length": 18,
+    "median_length": 58,
+    "max_length": 18811,
+    "weighted_total_len2": 474463797
+  },
+  "leaf_with_ancestors": {
+    "record_count": 5100,
+    "unique_lengths": 545,
+    "min_length": 30,
+    "median_length": 212,
+    "max_length": 18811,
+    "weighted_total_len2": 778545530
+  },
+  "table_hierarchy_leaves": {
+    "record_count": 2455,
+    "unique_lengths": 299,
+    "min_length": 42,
+    "median_length": 111,
+    "max_length": 702,
+    "weighted_total_len2": 54739130
+  },
+  "table_inner": {
+    "record_count": 7180,
+    "unique_lengths": 346,
+    "min_length": 26,
+    "median_length": 53,
+    "max_length": 876,
+    "weighted_total_len2": 87133213
+  },
+  "table_inner_rows": {
+    "record_count": 1399,
+    "unique_lengths": 364,
+    "min_length": 30,
+    "median_length": 90,
+    "max_length": 11916,
+    "weighted_total_len2": 746195818
+  }
+}

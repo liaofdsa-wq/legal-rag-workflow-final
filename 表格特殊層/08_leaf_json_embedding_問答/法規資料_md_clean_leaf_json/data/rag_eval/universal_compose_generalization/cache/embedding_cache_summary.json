@@ -1,0 +1,11 @@
+{
+  "cache_reused": false,
+  "model_name": "BAAI/bge-m3",
+  "text_count": 2948,
+  "embedding_shape": [
+    2948,
+    1024
+  ],
+  "model_load_sec": 23.18,
+  "encode_sec": 70.252
+}

@@ -1,0 +1,79 @@
+{
+  "model_name": "BAAI/bge-m3",
+  "record_count": 43748,
+  "embedding_dim": 1024,
+  "batch_size": 4,
+  "total_tokenish": 4732518,
+  "total_workload_lenpow2": 2633326810,
+  "tokenish_p50": 62,
+  "tokenish_p90": 225,
+  "max_tokenish": 16590,
+  "processed_by_batch": {
+    "batch_count": 10937,
+    "processed_records": 43748,
+    "processed_workload_lenpow2": 2633326810,
+    "total_workload_lenpow2": 2633326810,
+    "processed_workload_pct": 100.0
+  },
+  "input_check": {
+    "input_dir": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\embedding_inputs",
+    "files": {
+      "all_raw_data.jsonl": 20738,
+      "all_nodes.jsonl": 6638,
+      "leaf_with_ancestors.jsonl": 5098,
+      "table_hierarchy_leaves.jsonl": 2455,
+      "table_inner.jsonl": 7338,
+      "table_inner_rows.jsonl": 1481
+    },
+    "record_count": 43748,
+    "record_kind_counts": {
+      "all_raw_data": 20738,
+      "all_node": 6638,
+      "leaf_with_ancestors": 5098,
+      "table_hierarchy_leaf": 2455,
+      "table_inner": 7338,
+      "table_inner_row": 1481
+    },
+    "unique_position_hashes": 22418,
+    "duplicate_record_id_count": 0,
+    "error_count": 0,
+    "errors": []
+  },
+  "sources": {
+    "all_raw_data.jsonl": {
+      "path": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\embedding_inputs\\all_raw_data.jsonl",
+      "size": 47035029,
+      "mtime": 1779107882.3271542
+    },
+    "all_nodes.jsonl": {
+      "path": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\embedding_inputs\\all_nodes.jsonl",
+      "size": 13107233,
+      "mtime": 1779107882.6176097
+    },
+    "leaf_with_ancestors.jsonl": {
+      "path": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\embedding_inputs\\leaf_with_ancestors.jsonl",
+      "size": 16602337,
+      "mtime": 1779107882.8828003
+    },
+    "table_hierarchy_leaves.jsonl": {
+      "path": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\embedding_inputs\\table_hierarchy_leaves.jsonl",
+      "size": 6098187,
+      "mtime": 1779107883.0098698
+    },
+    "table_inner.jsonl": {
+      "path": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\embedding_inputs\\table_inner.jsonl",
+      "size": 15362799,
+      "mtime": 1779107883.330429
+    },
+    "table_inner_rows.jsonl": {
+      "path": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\embedding_inputs\\table_inner_rows.jsonl",
+      "size": 3679140,
+      "mtime": 1779107883.4066865
+    }
+  },
+  "files": {
+    "embeddings": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_index\\bge_m3_current\\embeddings.npy",
+    "metadata": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_index\\bge_m3_current\\metadata.jsonl",
+    "summary": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_index\\bge_m3_current\\index_summary.json"
+  }
+}
