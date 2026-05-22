@@ -1,0 +1,501 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>版本比較單線對照流程圖</title>
+  <style>
+    :root {
+      --ink: #1f2937;
+      --muted: #667085;
+      --line: #475467;
+      --bg: #f8fafc;
+      --paper: #ffffff;
+      --pdf: #fff1e8;
+      --pdf-border: #d9480f;
+      --code: #eef6ff;
+      --code-border: #1c7ed6;
+      --gen: #eefaf1;
+      --gen-border: #2f9e44;
+      --edit: #fff8db;
+      --edit-border: #b7791f;
+      --data: #f4f0ff;
+      --data-border: #6741d9;
+      --app: #e8fbfb;
+      --app-border: #0b7285;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      background: var(--bg);
+      font-family: "Noto Sans TC", "Microsoft JhengHei", "PingFang TC", Arial, sans-serif;
+      line-height: 1.65;
+    }
+
+    main {
+      max-width: 1480px;
+      margin: 0 auto;
+      padding: 38px 22px 52px;
+    }
+
+    header { margin-bottom: 22px; }
+
+    h1 {
+      margin: 0 0 8px;
+      font-size: 30px;
+      line-height: 1.25;
+    }
+
+    .lead {
+      max-width: 980px;
+      margin: 0;
+      color: var(--muted);
+      font-size: 16px;
+    }
+
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin: 20px 0 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .legend li {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 10px;
+      color: var(--muted);
+      background: var(--paper);
+      border: 1px solid #d0d5dd;
+      border-radius: 8px;
+      font-size: 14px;
+    }
+
+    .swatch {
+      display: inline-block;
+      width: 14px;
+      height: 14px;
+      border: 2px solid var(--line);
+      border-radius: 4px;
+    }
+
+    .pdf-swatch { background: var(--pdf); border-color: var(--pdf-border); }
+    .code-swatch { background: var(--code); border-color: var(--code-border); }
+    .gen-swatch { background: var(--gen); border-color: var(--gen-border); }
+    .edit-swatch { background: var(--edit); border-color: var(--edit-border); }
+    .data-swatch { background: var(--data); border-color: var(--data-border); }
+    .app-swatch { background: var(--app); border-color: var(--app-border); }
+
+    .diagram-shell {
+      margin-top: 24px;
+      padding: 20px;
+      background: var(--paper);
+      border: 1px solid #d0d5dd;
+      border-radius: 8px;
+      overflow-x: auto;
+    }
+
+    svg {
+      display: block;
+      min-width: 1380px;
+      width: 100%;
+      height: auto;
+    }
+
+    .node rect {
+      rx: 6;
+      ry: 6;
+      stroke-width: 1.8;
+    }
+
+    .node text {
+      fill: var(--ink);
+      font-size: 15px;
+      text-anchor: middle;
+      dominant-baseline: middle;
+    }
+
+    .node .sub {
+      fill: var(--muted);
+      font-size: 12px;
+    }
+
+    .pdf rect { fill: var(--pdf); stroke: var(--pdf-border); }
+    .code rect { fill: var(--code); stroke: var(--code-border); }
+    .gen rect { fill: var(--gen); stroke: var(--gen-border); }
+    .edit rect { fill: var(--edit); stroke: var(--edit-border); }
+    .data rect { fill: var(--data); stroke: var(--data-border); }
+    .app rect { fill: var(--app); stroke: var(--app-border); }
+
+    .final rect {
+      fill: #dffafa;
+      stroke: #087f8c;
+      stroke-width: 3;
+      filter: drop-shadow(0 10px 18px rgba(8, 127, 140, 0.18));
+    }
+
+    .final text {
+      font-size: 18px;
+      font-weight: 700;
+    }
+
+    .final .sub {
+      font-size: 13px;
+      font-weight: 400;
+    }
+
+    .edge {
+      fill: none;
+      stroke: var(--line);
+      stroke-width: 1.8;
+      marker-end: url(#arrow);
+    }
+
+    .edge.dashed {
+      stroke-dasharray: 7 6;
+    }
+
+    .edge-label {
+      fill: var(--muted);
+      font-size: 12px;
+      text-anchor: middle;
+    }
+
+    .section-title {
+      fill: #344054;
+      font-size: 14px;
+      font-weight: 700;
+      text-anchor: middle;
+    }
+
+    .lane-tag {
+      fill: #475467;
+      font-size: 13px;
+      font-weight: 700;
+      text-anchor: middle;
+    }
+
+    .compare-tag {
+      fill: #344054;
+      font-size: 12px;
+      font-weight: 700;
+      text-anchor: middle;
+    }
+
+    .update-badge rect {
+      fill: #fff4e6;
+      stroke: #f08c00;
+      stroke-width: 1.6;
+      stroke-dasharray: 5 4;
+    }
+
+    .update-badge text {
+      fill: #9c6500;
+      font-size: 11px;
+      font-weight: 700;
+      text-anchor: middle;
+      dominant-baseline: middle;
+    }
+
+    .notes {
+      margin-top: 22px;
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 14px;
+    }
+
+    .note {
+      padding: 16px;
+      background: var(--paper);
+      border: 1px solid #d0d5dd;
+      border-radius: 8px;
+    }
+
+    .note h2 {
+      margin: 0 0 8px;
+      font-size: 17px;
+      line-height: 1.35;
+    }
+
+    .note p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    code {
+      padding: 1px 5px;
+      border-radius: 5px;
+      background: #eef2f7;
+      color: #27364a;
+      font-family: Consolas, "Courier New", monospace;
+      font-size: 0.95em;
+    }
+
+    @media (max-width: 980px) {
+      main { padding: 28px 14px 40px; }
+      h1 { font-size: 25px; }
+      .diagram-shell { padding: 12px; }
+      .notes { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>原版單線 vs 更新版單線流程圖</h1>
+      <p class="lead">
+        這不是雙路線總覽，而是把原版主線和更新後主線並排比較。左邊是原本通用流程；右邊是將表格型法規處理從前段轉檔、結構化、連續表格合併、建樹一路補到 local RAG 的版本。
+      </p>
+      <ul class="legend" aria-label="顏色圖例">
+        <li><span class="swatch pdf-swatch"></span>原始資料</li>
+        <li><span class="swatch code-swatch"></span>執行程式</li>
+        <li><span class="swatch gen-swatch"></span>生成 / 中介區</li>
+        <li><span class="swatch edit-swatch"></span>精修區</li>
+        <li><span class="swatch data-swatch"></span>JSON / Embedding / 索引</li>
+        <li><span class="swatch app-swatch"></span>RAG / App / 評測</li>
+      </ul>
+    </header>
+
+    <section class="diagram-shell" aria-label="版本比較單線對照流程圖">
+      <svg viewBox="0 0 1380 1640" role="img" aria-labelledby="diagram-title diagram-desc">
+        <title id="diagram-title">版本比較單線對照流程圖</title>
+        <desc id="diagram-desc">左側為原版單線流程，右側為更新後單線流程，強調 02、05、07.5、07.6、07.8、08-5 到 08-8 的補強。</desc>
+
+        <defs>
+          <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+            <path d="M0,0 L0,6 L9,3 z" fill="#475467"></path>
+          </marker>
+        </defs>
+
+        <text class="section-title" x="690" y="26">版本比較單線對照</text>
+        <text class="lane-tag" x="360" y="80">原版單線流程</text>
+        <text class="lane-tag" x="1020" y="80">更新後單線流程</text>
+        <text class="compare-tag" x="360" y="102">通用條文處理主線</text>
+        <text class="compare-tag" x="1020" y="102">補強後的表格型法規主線</text>
+
+        <g class="node pdf">
+          <rect x="180" y="132" width="360" height="80"></rect>
+          <text x="360" y="162">原始 PDF</text>
+          <text class="sub" x="360" y="186">原版從同一批法規文件開始</text>
+        </g>
+
+        <g class="node pdf">
+          <rect x="840" y="132" width="360" height="80"></rect>
+          <text x="1020" y="162">原始 PDF</text>
+          <text class="sub" x="1020" y="186">同樣從法規原始文件出發</text>
+        </g>
+
+        <g class="node code">
+          <rect x="180" y="250" width="360" height="88"></rect>
+          <text x="360" y="280">PDF 轉 Markdown</text>
+          <text class="sub" x="360" y="304">通用轉檔流程</text>
+          <text class="sub" x="360" y="324">偏向把表格當一般文字處理</text>
+        </g>
+
+        <g class="node code">
+          <rect x="840" y="250" width="360" height="88"></rect>
+          <text x="1020" y="280">02_PDF轉Markdown程式</text>
+          <text class="sub" x="1020" y="304">提md_實驗版備份_20260429.py</text>
+          <text class="sub" x="1020" y="324">先改善表格保留效果，不只做通用轉檔</text>
+        </g>
+        <g class="update-badge">
+          <rect x="1128" y="238" width="88" height="24" rx="10" ry="10"></rect>
+          <text x="1172" y="250">新增/強化</text>
+        </g>
+
+        <g class="node gen">
+          <rect x="180" y="376" width="360" height="82"></rect>
+          <text x="360" y="406">Markdown 生成區</text>
+          <text class="sub" x="360" y="430">轉成可編輯的法規 Markdown</text>
+        </g>
+
+        <g class="node gen">
+          <rect x="840" y="376" width="360" height="82"></rect>
+          <text x="1020" y="406">03_Markdown生成區</text>
+          <text class="sub" x="1020" y="430">作為後續表格補強的基礎輸入</text>
+        </g>
+
+        <g class="node edit">
+          <rect x="180" y="496" width="360" height="82"></rect>
+          <text x="360" y="526">Markdown 精修區</text>
+          <text class="sub" x="360" y="550">人工調整後再往下游處理</text>
+        </g>
+
+        <g class="node edit">
+          <rect x="840" y="496" width="360" height="82"></rect>
+          <text x="1020" y="526">04_Markdown精修區</text>
+          <text class="sub" x="1020" y="550">保留後續特殊規則可利用的表格訊號</text>
+        </g>
+
+        <g class="node code">
+          <rect x="180" y="616" width="360" height="88"></rect>
+          <text x="360" y="646">結構化 / JSON</text>
+          <text class="sub" x="360" y="670">通用結構化規則</text>
+          <text class="sub" x="360" y="690">表格細節較容易在這裡被攤平</text>
+        </g>
+
+        <g class="node code">
+          <rect x="840" y="616" width="360" height="88"></rect>
+          <text x="1020" y="646">05_結構化程式</text>
+          <text class="sub" x="1020" y="670">分類前處理_codex.py</text>
+          <text class="sub" x="1020" y="690">加特殊規則，讓表格型文件能正確進後續流程</text>
+        </g>
+        <g class="update-badge">
+          <rect x="1128" y="604" width="88" height="24" rx="10" ry="10"></rect>
+          <text x="1172" y="616">新增/強化</text>
+        </g>
+
+        <g class="node gen">
+          <rect x="180" y="742" width="360" height="82"></rect>
+          <text x="360" y="772">CleanTree / 中介資料</text>
+          <text class="sub" x="360" y="796">文字為主的中介結構</text>
+        </g>
+
+        <g class="node gen">
+          <rect x="840" y="742" width="360" height="88"></rect>
+          <text x="1020" y="770">07.5 連續表格合併</text>
+          <text class="sub" x="1020" y="794">把被切散的連續表格重新接回</text>
+          <text class="sub" x="1020" y="814">merge_consecutive_tables.py</text>
+        </g>
+        <g class="update-badge">
+          <rect x="1128" y="730" width="88" height="24" rx="10" ry="10"></rect>
+          <text x="1172" y="742">新增/強化</text>
+        </g>
+
+        <g class="node data">
+          <rect x="180" y="862" width="360" height="88"></rect>
+          <text x="360" y="892">Embedding / BM25</text>
+          <text class="sub" x="360" y="916">用通用結構切 chunk、建立索引</text>
+          <text class="sub" x="360" y="936">對複雜表格題較不友善</text>
+        </g>
+
+        <g class="node code">
+          <rect x="840" y="862" width="360" height="88"></rect>
+          <text x="1020" y="890">07.6 連續表格合併結果</text>
+          <text class="sub" x="1020" y="914">合併後版本成為正式下游輸入</text>
+          <text class="sub" x="1020" y="934">不再讓後面直接吃碎表</text>
+        </g>
+        <g class="update-badge">
+          <rect x="1128" y="850" width="88" height="24" rx="10" ry="10"></rect>
+          <text x="1172" y="862">新增/強化</text>
+        </g>
+
+        <g class="node code">
+          <rect x="180" y="988" width="360" height="88"></rect>
+          <text x="360" y="1018">RAG / App</text>
+          <text class="sub" x="360" y="1042">可檢索、可問答，但表格語意保留有限</text>
+          <text class="sub" x="360" y="1062">屬於原版主線終點</text>
+        </g>
+
+        <g class="node code">
+          <rect x="840" y="982" width="360" height="88"></rect>
+          <text x="1020" y="1010">07.8_建樹</text>
+          <text class="sub" x="1020" y="1034">建樹_special.py</text>
+          <text class="sub" x="1020" y="1054">把表格與條文層級變成可追蹤的 special tree</text>
+        </g>
+        <g class="update-badge">
+          <rect x="1128" y="970" width="88" height="24" rx="10" ry="10"></rect>
+          <text x="1172" y="982">新增/強化</text>
+        </g>
+
+        <g class="node data">
+          <rect x="840" y="1108" width="360" height="94"></rect>
+          <text x="1020" y="1136">08-5 structured json</text>
+          <text class="sub" x="1020" y="1160">special tree 轉 structured JSON / SQLite</text>
+          <text class="sub" x="1020" y="1180">保留 table、cell、merge、position 資訊</text>
+        </g>
+        <g class="update-badge">
+          <rect x="1128" y="1096" width="88" height="24" rx="10" ry="10"></rect>
+          <text x="1172" y="1108">新增/強化</text>
+        </g>
+
+        <g class="node data">
+          <rect x="840" y="1240" width="360" height="94"></rect>
+          <text x="1020" y="1268">08-6 table inner hierarchy</text>
+          <text class="sub" x="1020" y="1292">抓表格內部章節、款項與編號層次</text>
+          <text class="sub" x="1020" y="1312">不再只把表格當平面列資料</text>
+        </g>
+        <g class="update-badge">
+          <rect x="1128" y="1228" width="88" height="24" rx="10" ry="10"></rect>
+          <text x="1172" y="1240">新增/強化</text>
+        </g>
+
+        <g class="node data">
+          <rect x="840" y="1372" width="360" height="94"></rect>
+          <text x="1020" y="1400">08-7 embedding inputs</text>
+          <text class="sub" x="1020" y="1424">建立 leaf / table / hierarchy 多模式輸入</text>
+          <text class="sub" x="1020" y="1444">讓檢索不再只有單一路徑 chunking</text>
+        </g>
+        <g class="update-badge">
+          <rect x="1128" y="1360" width="88" height="24" rx="10" ry="10"></rect>
+          <text x="1172" y="1372">新增/強化</text>
+        </g>
+
+        <g class="node app final">
+          <rect x="840" y="1516" width="360" height="98"></rect>
+          <text x="1020" y="1544">app / 法規資料_md_clean_leaf_json</text>
+          <text class="sub" x="1020" y="1568">最終把表格型法規以結構化方式送進 RAG / 評測 / 展示</text>
+          <text class="sub" x="1020" y="1588">比原版更能保留表格語意與檢索脈絡</text>
+        </g>
+
+        <path class="edge" d="M360 212 L360 250"></path>
+        <path class="edge" d="M360 338 L360 376"></path>
+        <path class="edge" d="M360 458 L360 496"></path>
+        <path class="edge" d="M360 578 L360 616"></path>
+        <path class="edge" d="M360 704 L360 742"></path>
+        <path class="edge" d="M360 824 L360 862"></path>
+        <path class="edge" d="M360 950 L360 988"></path>
+
+        <path class="edge" d="M1020 212 L1020 250"></path>
+        <path class="edge" d="M1020 338 L1020 376"></path>
+        <path class="edge" d="M1020 458 L1020 496"></path>
+        <path class="edge" d="M1020 578 L1020 616"></path>
+        <path class="edge" d="M1020 704 L1020 742"></path>
+        <path class="edge" d="M1020 830 L1020 862"></path>
+        <path class="edge" d="M1020 950 L1020 982"></path>
+        <path class="edge" d="M1020 1070 L1020 1108"></path>
+        <path class="edge" d="M1020 1202 L1020 1240"></path>
+        <path class="edge" d="M1020 1334 L1020 1372"></path>
+        <path class="edge" d="M1020 1466 L1020 1516"></path>
+
+        <path class="edge dashed" d="M540 294 C620 294, 760 294, 840 294"></path>
+        <path class="edge dashed" d="M540 660 C620 660, 760 660, 840 660"></path>
+        <path class="edge dashed" d="M540 906 C620 906, 760 906, 840 906"></path>
+        <path class="edge dashed" d="M540 1032 C620 1032, 760 1032, 840 1032"></path>
+        <text class="edge-label" x="690" y="284">更新點從這裡開始明顯拉開差距</text>
+        <text class="edge-label" x="690" y="650">前處理規則改強</text>
+        <text class="edge-label" x="690" y="896">表格不再只是平面片段</text>
+          <text class="edge-label" x="690" y="1022">原版到此為止，更新版繼續往下補完整</text>
+      </svg>
+    </section>
+
+    <section class="notes" aria-label="流程補充說明">
+      <article class="note">
+        <h2>原版限制</h2>
+        <p>
+          原版主線比較偏通用法規處理，對表格內容大多沿用一般文字型流程。這樣可以快速做出 JSON、embedding 與 RAG，但碰到連續表格、表內階層或附錄型內容時，表格語意容易被切散或攤平。
+        </p>
+      </article>
+      <article class="note">
+        <h2>更新內容</h2>
+        <p>
+          從 <code>02</code> 的轉檔就開始強化表格保留，接著在 <code>05</code> 加特殊前處理規則，再補上 <code>07.5</code> 連續表格合併、<code>07.6</code> 正式輸入版本、<code>07.8</code> special tree，以及 <code>08-5~7</code> 的 structured json、table hierarchy、embedding inputs。
+        </p>
+      </article>
+      <article class="note">
+        <h2>效果差異</h2>
+        <p>
+          更新後的流程不是只把表格當碎文字塞進檢索，而是盡量保留連續性、層級與位置資訊，再送進 local RAG。對業師來說，這張圖的重點就是看出你把表格型法規從前段處理一路補到可驗證的檢索與展示端。
+        </p>
+      </article>
+    </section>
+  </main>
+</body>
+</html>
